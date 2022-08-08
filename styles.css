@@ -1,0 +1,42 @@
+body {
+    background: #ffc4c4;
+    font-family: ;
+}
+
+.now {
+    position: fixed;
+    line-height: 0;
+    top: 20px;
+    left: 15px;
+}
+
+.current {
+    position: fixed;
+    line-height: 0;
+    top: 20px;
+    right: 15px;
+}
+
+form {
+    display: block;
+    position: fixed;
+    top: 100px;
+    left: 120px;
+}
+
+.forecast {
+    position: fixed;
+    top: 180px;
+}
+
+.column {
+    margin: 8px;
+    padding: 2px;
+    border: #937ec2;
+}
+
+.footer {
+    position: fixed;
+    bottom: 20px;
+    right: 15px;
+}
